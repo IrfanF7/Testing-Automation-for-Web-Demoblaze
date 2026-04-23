@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify product detail page (pdp)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>695dd154-3d86-4acb-9275-f2ea471c00b9</testCaseGuid>
+</TestCaseEntity>

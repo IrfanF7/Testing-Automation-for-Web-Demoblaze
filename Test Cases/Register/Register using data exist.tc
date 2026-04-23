@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register with valid credential</description>
+   <name>Register using data exist</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b183e86a-dfdb-444e-a11a-0207ee5fcbfa</testCaseGuid>
+</TestCaseEntity>

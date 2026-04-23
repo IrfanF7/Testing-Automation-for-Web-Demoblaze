@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_next2</name>
+   <tag></tag>
+   <elementGuidId>25556976-a4a8-4eef-9e00-3d13a6d8dc1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.page-item:nth-child(2) .page-link</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'next2' and (text() = 'Next' or . = 'Next')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#next2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ba2a992-0345-487c-b115-4a2175185a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-link</value>
+      <webElementGuid>bf9886bf-0e33-4d82-87a1-0ed565549c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>next2</value>
+      <webElementGuid>09d4700c-aec3-41cb-b297-24c43d8ffb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>80f739fc-9d03-450a-a95c-9efb5ee6b872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>00b63849-0c97-4e42-bd43-d58cd2aa2460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-73fedb4333a60934e4d8a51d84586bbb</value>
+      <webElementGuid>693f5657-f65d-438c-adb9-1acdebc12a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>36674b8d-cd85-441b-8362-1d53b79b3944</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>497026e0-dad9-4735-958a-183f9ffcd4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'next2' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>3917a8cd-2345-4c27-a966-d193abd35b3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

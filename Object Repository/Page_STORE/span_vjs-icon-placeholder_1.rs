@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_vjs-icon-placeholder_1</name>
+   <tag></tag>
+   <elementGuidId>2adef367-25d8-4044-8b14-dcbee5665c7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.vjs-paused.vjs-control .vjs-icon-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-paused ') and contains(concat(' ', normalize-space(@class), ' '), ' vjs-control ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-icon-placeholder ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Play&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f8da6cd-dc83-40be-b8c7-72b9822a216b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>17ded937-27f2-4ce1-b133-4c0885698fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vjs-icon-placeholder</value>
+      <webElementGuid>2a9a2f49-497c-44be-b30f-8363774dec83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c7199dbbdaaf5d7cdbfa01b530abf3ee</value>
+      <webElementGuid>97c257b0-a539-4fca-945c-9d97a74cb0f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-paused ') and contains(concat(' ', normalize-space(@class), ' '), ' vjs-control ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-icon-placeholder ')]</value>
+      <webElementGuid>709955fa-bce6-4854-8e8f-18b2eca737f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-paused ') and contains(concat(' ', normalize-space(@class), ' '), ' vjs-control ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vjs-icon-placeholder ')]</value>
+      <webElementGuid>4a59555e-3326-4650-b05b-08f59b56e6ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

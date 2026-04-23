@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>1f7c7838-ba74-4290-a965-1f7e9ab3ef3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#videoModal .modal-header span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'videoModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-header ')]//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#videoModal >> internal:label=&quot;Close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32e5ff3a-2f0b-49cb-ab9c-2ea388ac80d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b58f5c52-0856-483b-9299-a35bd54a4498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>79bc40e9-fa84-42bb-a7af-762282e9e307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-66aa92759b838b4d99b7e3ee97f4bbca</value>
+      <webElementGuid>16c1880a-aa09-4b75-88b5-3e5467d6d3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'videoModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-header ')]//span</value>
+      <webElementGuid>b93097fe-a999-48c0-91b7-6b130d7d7d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'videoModal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-header ')]//span</value>
+      <webElementGuid>de38d6f0-ab67-438f-ae48-c71dee52b894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>8d7fbddf-9628-4ec7-a21b-5d4d5becd29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

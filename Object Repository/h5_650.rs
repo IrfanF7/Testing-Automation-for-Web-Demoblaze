@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_650</name>
+   <tag></tag>
+   <elementGuidId>f09890e0-345d-4917-8c18-93d24877e727</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(3) .card h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ')]//h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;$650&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>7760da0a-1353-49d1-9f4c-88170733a95d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$650</value>
+      <webElementGuid>b1a3255a-8816-43d8-b609-03e7c2dfb2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b00fa28489e43108a803eaa862e3342e</value>
+      <webElementGuid>2b4ac48b-1cba-4eb9-8dd5-5c944153993c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ')]//h5</value>
+      <webElementGuid>669a0eab-5819-4700-9328-9059917da2d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ')]//h5</value>
+      <webElementGuid>834302a2-1bde-407a-a0d0-e113e65d450c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '$650' or . = '$650')]</value>
+      <webElementGuid>bd3afb2c-0d49-4e34-bcbe-ac703e2db389</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
